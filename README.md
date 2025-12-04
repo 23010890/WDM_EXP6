@@ -60,7 +60,7 @@ sklearn to demonstrate Information Retrieval using the Vector Space Model.
             reverse=True
         )
         return ranked_results
-    )
+    
 
 ###### Get input from user
     query = input("Enter your query: ")
