@@ -83,7 +83,8 @@ sklearn to demonstrate Information Retrieval using the Vector Space Model.
 
 ### Output:
 
-<img width="689" height="751" alt="image" src="https://github.com/user-attachments/assets/c8be712f-6d03-484f-959f-59dfa2e64a2b" />
+<img width="795" height="600" alt="image" src="https://github.com/user-attachments/assets/d680bc4a-060e-4bb2-9b51-a34a0b01e35a" />
+
 
 
 ### Result:
